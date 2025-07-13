@@ -1,0 +1,45 @@
+* {
+    font-family: sans-serif;
+}
+
+
+.buttonClass {
+  font-size:30px;
+  font-family:sans-serif;
+  width:140px;
+  height:40px;
+  border-width:2px;
+  color:#fff;
+  border-color:#ffd67c;
+  font-weight:bold;
+  border-top-left-radius:28px;
+  border-top-right-radius:28px;
+  border-bottom-left-radius:28px;
+  border-bottom-right-radius:28px;
+  text-shadow: 1px 1px 0px #ef7aff;
+  background:#c744c7;
+}
+
+.buttonClass:hover {
+  background: #2aa9bf
+}
+
+
+.title {
+    text-align: center;
+    font-weight:bolder;
+    color: pink;   
+}
+img {
+    display: block;
+    align-content: center;
+}
+
+.centre {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+              
